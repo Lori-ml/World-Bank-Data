@@ -1,4 +1,4 @@
-# Click [here](https://myapp-worldbankdata-florida-1.herokuapp.com/) to view the project
+# Click [here](https://myapp-worldbankdata-florida-1.herokuapp.com/) to view the webpage
 
 ## Project Description:
 
