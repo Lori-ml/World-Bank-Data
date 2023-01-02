@@ -1,5 +1,10 @@
 # Click [here](https://myapp-worldbankdata-florida-1.herokuapp.com/) to view the webpage
 
+Heroku changed policies on November 28 2022, hence above link does not work. 
+
+![image](https://user-images.githubusercontent.com/41455899/210284159-213ce589-c37c-4dab-9d66-a2f16119862c.png)
+
+
 ## Project Description:
 
 Goal of this project is to compare Finland, Denmark, Switzerland, Canada and USA in following areas: unemployment, employment in agriculture, inflation, and mortality caused by road traffic injury for timespan of 20 years (2000 – 2020). Data is extracted automatically through [World Bank Open Data indicators](https://data.worldbank.org/indicator/) APIs. 
