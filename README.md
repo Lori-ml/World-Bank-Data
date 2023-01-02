@@ -1,6 +1,6 @@
 # Click [here](https://myapp-worldbankdata-florida-1.herokuapp.com/) to view the webpage
 
-Heroku changes policies on November 28 2022, hence above link does not work. 
+Heroku changed policies on November 28 2022, hence above link does not work. 
 
 ![image](https://user-images.githubusercontent.com/41455899/210284159-213ce589-c37c-4dab-9d66-a2f16119862c.png)
 
