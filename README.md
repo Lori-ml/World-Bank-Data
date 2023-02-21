@@ -7,7 +7,7 @@ Heroku changed policies on November 28 2022, hence above link does not work.
 
 ## Project Description:
 
-Goal of this project is to compare Finland, Denmark, Switzerland, Canada and USA in following areas: unemployment, employment in agriculture, inflation, and mortality caused by road traffic injury for timespan of 20 years (2000 – 2020). Data is extracted automatically through [World Bank Open Data indicators](https://data.worldbank.org/indicator/) APIs. 
+Goal of this project is to compare Finland, Denmark, Switzerland, Canada and USA in following areas: unemployment, employment in agriculture, inflation, and mortality caused by road traffic injury, for timespan of 20 years (2000 – 2020). Data is extracted automatically through [World Bank Open Data indicators](https://data.worldbank.org/indicator/) APIs. 
  Following is a description of each chart.
 
 **Chart 1:** Percentage of labor force that is without work but available for and seeking employment.
